@@ -5,8 +5,11 @@
 
 ![](https://raw.githubusercontent.com/yoeven/Mounter-Drive/master/others/Mounter%20Drive%20Logo_Logo%20Name.png)
 
-A simple & fast open-source WebDav desktop client
+A simple & fast open-source WebDav desktop client.
+ 
+![](https://raw.githubusercontent.com/yoeven/Mounter-Drive/master/docs/screenshots/screenshot.PNG)
 
+[Click here to download latest release.](https://yoeven.github.io/Mounter-Drive/)
 
 ----------
 
