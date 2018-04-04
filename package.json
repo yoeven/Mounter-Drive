@@ -1,0 +1,55 @@
+{
+  "name": "mounter_drive",
+  "productName": "Mounter Drive",
+  "copyright": "Copyright © 2018 Yoeven D Khemlani",
+  "version": "1.0.0",
+  "description": "Simple & Fast WebDav Client",
+  "author": "Yoeven D Khemlani",
+  "private": true,
+  "dependencies": {
+    "arraybuffer-to-buffer": "0.0.4",
+    "fbemitter": "^2.1.1",
+    "js-search": "^1.4.2",
+    "react": "^16.2.0",
+    "react-contexify": "^3.0.0-rc.2",
+    "react-dom": "^16.2.0",
+    "react-dropzone": "^4.2.9",
+    "request": "^2.85.0",
+    "request-progress": "^3.0.0",
+    "semantic-ui-react": "^0.78.3",
+    "webdav": "^1.5.0"
+  },
+  "homepage": "./",
+  "main": "public/electron.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "electron": "set ELECTRON_START_URL=http://localhost:3000 && electron .",
+    "pack": "build --dir",
+    "dist": "npm run build && build",
+    "postinstall": "install-app-deps"
+  },
+  "build": {
+    "appId": "com.electron.mounter_drive",
+    "win": {
+      "icon": "build/favicon.png",
+      "publisherName": "Dreaming Earth Studio"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": true,
+      "allowToChangeInstallationDirectory": true,
+      "shortcutName": "Mounter Drive"
+    },
+    "directories": {
+      "buildResources": "public"
+    }
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.1",
+    "electron": "^1.8.3",
+    "electron-builder": "^20.5.1"
+  }
+}

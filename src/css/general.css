@@ -1,0 +1,52 @@
+
+
+.try {
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-top: 80px;
+}
+
+.fileClick {
+    cursor: hand;
+}
+
+.mouseOverBoxDefault{
+  background: #9A9899;
+  cursor: default;
+}
+
+.selectedBox{
+  background:#95A5A6;
+  cursor: default;
+}
+
+.generalOptionsMenu{
+  padding-left: 15px;
+}
+
+.uploadBoxDropArea{
+  border-style: dashed;
+  width: 100%;
+  height: 60vh;
+  padding-top: 25vh;
+  text-align: center;
+}
+
+.downloadManagerDropDown{
+  width: 70vh;
+  overflow: hidden;
+}
+
+.sticky{
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.loginpagestyle{
+  padding-top: 2%;
+  text-align: center;
+}
+.searchResultBox {
+  width: 50vw;
+}

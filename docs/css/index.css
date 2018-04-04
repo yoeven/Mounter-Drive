@@ -1,0 +1,7 @@
+#screenshot{
+    padding-top:5%;
+    width: 60%;
+    height: 60%;
+
+    filter: drop-shadow(0px 0px 10px rgb(0, 0, 0));
+  }

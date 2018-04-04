@@ -1,0 +1,208 @@
+{
+    "ExtensionReference":"https://www.computerhope.com/issues/ch001789.htm",
+    "IconsReference":"https://react.semantic-ui.com/elements/icon",
+    "Extensions": [
+        {
+            "Ext": [
+                "txt",
+                "md",
+                "tex",
+                "doc",
+                "docx",
+                "odt",
+                "rtf",
+                "wks",
+                "wpd"
+            ],
+            "Icon": "file text outline"
+        },
+        {
+            "Ext": [
+                "pdf"
+            ],
+            "Icon": "file pdf outline"
+        },
+        {
+            "Ext": [
+                "aif",
+                "cda",
+                "mid",
+                "midi",
+                "mp3",
+                "mpa",
+                "ogg",
+                "wav",
+                "wma",
+                "wpl"
+            ],
+            "Icon": "file audio outline"
+        },
+        {
+            "Ext": [
+                "ai",
+                "bmp",
+                "gif",
+                "ico",
+                "jpeg",
+                "jpg",
+                "png",
+                "ps",
+                "psd",
+                "svg",
+                "tif",
+                "tiff"
+            ],
+            "Icon": "file image outline"
+        },
+        {
+            "Ext": [
+                "3g2",
+                "3gp",
+                "avi",
+                "flv",
+                "h264",
+                "m4v",
+                "mkv",
+                "mov",
+                "mp4",
+                "mpg",
+                "mpeg",
+                "rm",
+                "swf",
+                "vob",
+                "wmv"
+            ],
+            "Icon": "file video outline"
+        },
+        {
+            "Ext": [
+                "7z",
+                "arj",
+                "deb",
+                "pkg",
+                "rar",
+                "rpm",
+                "gz",
+                "z",
+                "zip"
+            ],
+            "Icon": "file archive outline"
+        },
+        {
+            "Ext": [
+                "bin",
+                "dmg",
+                "iso",
+                "toast",
+                "vcd"
+            ],
+            "Icon": "disk outline"
+        },
+        {
+            "Ext": [
+                "csv",
+                "dat",
+                "db",
+                "dbf",
+                "log",
+                "mdb",
+                "sav",
+                "sql",
+                "tar",
+                "xml",
+                "json"
+            ],
+            "Icon": "database"
+        },
+        {
+            "Ext": [
+                "apk",
+                "bat",
+                "bin",
+                "com",
+                "exe",
+                "gadget",
+                "jar",
+                "wsf"
+            ],
+            "Icon": "archive"
+        },
+        {
+            "Ext": [
+                "fnt",
+                "fon",
+                "otf",
+                "ttf"
+            ],
+            "Icon": "font"
+        },
+        {
+            "Ext": [
+                "asp",
+                "aspx",
+                "cer",
+                "cfm",
+                "cgi",
+                "pl",
+                "js",
+                "jsp",
+                "part",
+                "php",
+                "py",
+                "xhtml",
+                "c",
+                "class",
+                "cpp",
+                "cs",
+                "h",
+                "java",
+                "sh",
+                "swift",
+                "vb"
+            ],
+            "Icon": "file code outline"
+        },
+        {
+            "Ext": [
+                "html"
+            ],
+            "Icon": "html5"
+        },
+        {
+            "Ext": [
+                "css"
+            ],
+            "Icon": "css3"
+        },
+        {
+            "Ext": [
+                "rss"
+            ],
+            "Icon": "rss"
+        },
+        {
+            "Ext": [
+                "pps",
+                "ppt",
+                "pptx"
+            ],
+            "Icon": "file powerpoint outline"
+        },
+        {
+            "Ext": [
+                "xlr",
+                "xls",
+                "xlsx"
+            ],
+            "Icon": "file excel outline"
+        },
+        {
+            "Ext": [
+                "doc",
+                "docx"
+            ],
+            "Icon": "file word outline"
+        }
+    ],
+    "Icon_Default": "file outline"
+}
